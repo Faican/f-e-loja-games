@@ -1,0 +1,21 @@
+main{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 800px;
+    
+}
+
+#section-login{
+    text-align:center;
+    height: 100%;
+    width: 400px;/*direita - modifica o tamanho do campo email-login-senha*/
+    border-radius: 20px; /*arredondar bordas*/
+    border: 4px solid black;/*engrossa ou deixa fina bordas*/
+    padding: 12px 20px; /*altura das bordas*/
+    
+    
+    /*margin-top: 30px;*/
+}
+

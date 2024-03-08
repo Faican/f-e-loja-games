@@ -1,0 +1,8 @@
+footer{
+    background: black;/*fundo preto ou outra cor que preferir*/
+    color: white;/*texto na cor branco*/
+    text-align: center;/*Texto alinhado ao centro*/
+    height: 135px;/*altura 100 pixels*/
+    padding-top: 45px;/*espaçamento interno de cima para baixo de 30pixels*/
+
+}
